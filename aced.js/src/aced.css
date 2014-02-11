@@ -1,0 +1,22 @@
+.aced-button-bar-top {
+    width: 100%;
+    padding:5px 10px;
+    background-color: #EEE;
+}
+
+.aced-button-bar .selectize-control {
+    min-width: 100px;
+    max-width: 200px;
+    display: inline-block;
+}
+
+.aced-button-bar > button {
+    float: right;
+}
+
+.aced-button-bar-bottom {
+    width: 100%;
+    text-align: right;
+    padding: 5px 20px;
+    background-color: #EEE;
+}
